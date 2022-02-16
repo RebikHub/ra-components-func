@@ -1,9 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import ItemModel from '../models/ShopItemModel';
 
 export default function ShopItemFunc(props) {
   const { item } = props;
+
+  ShopItemFunc.propTypes = {
+    item: PropTypes.object
+  }
+
   return (
     <div className="main-content">
       <h2>{item.brand}</h2>
@@ -20,8 +24,4 @@ export default function ShopItemFunc(props) {
       </div>
     </div>
   )
-}
-
-ShopItemFunc.propTypes = {
-  item: PropTypes.object
 }
