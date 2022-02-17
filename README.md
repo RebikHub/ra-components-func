@@ -1,7 +1,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/h6un8y839pt0dtj4/branch/main?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-components-func/branch/main)
 
-[Страница интернет-магазина](https://rebikhub.github.io/RebikHub/ra-components-func/)
+[Страница интернет-магазина](https://rebikhub.github.io/ra-components-func/)
 
 ===
 
