@@ -1,4 +1,8 @@
-Страница интернет-магазина
+
+[![Build status](https://ci.appveyor.com/api/projects/status/h6un8y839pt0dtj4/branch/main?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-components-func/branch/main)
+
+[Страница интернет-магазина](https://rebikhub.github.io/RebikHub/ra-components-func/)
+
 ===
 
 Необходимо создать React-компонент `ShopItemFunc` (функциональный компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
